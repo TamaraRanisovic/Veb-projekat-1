@@ -4,3 +4,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/TamaraRanisovic/Veb-projekat-1.git
+[submodule "Veb-projekat-1"]
+	path = Veb-projekat-1
+	url = https://github.com/TamaraRanisovic/Veb-projekat-1.git
