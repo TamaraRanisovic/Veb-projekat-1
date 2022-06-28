@@ -1,0 +1,3 @@
+[submodule "demo/web"]
+	path = demo/web
+	url = C:/Program Files/Git/web
