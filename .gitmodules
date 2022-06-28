@@ -1,3 +1,6 @@
 [submodule "demo/web"]
 	path = demo/web
 	url = C:/Program Files/Git/web
+[submodule "web"]
+	path = web
+	url = https://github.com/TamaraRanisovic/Veb-projekat-1.git
